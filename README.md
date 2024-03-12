@@ -1,3 +1,3 @@
 # pruebaRep
 
-Este es mi primer repositorio en GitHub
+Este es mi repositorio creado en clase
